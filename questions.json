@@ -1,0 +1,66 @@
+{
+  "milliy": [
+    {
+      "q": "2x + 6 = 14 tenglamani yeching. x = ?",
+      "options": ["2", "3", "4", "5"],
+      "answer": 2,
+      "explain": "2x = 14 - 6 = 8, demak x = 4."
+    },
+    {
+      "q": "√(3² + 4²) ning qiymati nechaga teng?",
+      "options": ["5", "7", "12", "25"],
+      "answer": 0,
+      "explain": "3² + 4² = 9 + 16 = 25, √25 = 5."
+    },
+    {
+      "q": "150 ning 20 foizi nechaga teng?",
+      "options": ["20", "25", "30", "35"],
+      "answer": 2,
+      "explain": "150 · 0,2 = 30."
+    },
+    {
+      "q": "x² - 9 = 0 tenglamaning musbat ildizi nechaga teng?",
+      "options": ["1", "3", "6", "9"],
+      "answer": 1,
+      "explain": "x² = 9, musbat ildiz x = 3."
+    },
+    {
+      "q": "Radiusi 3 bo'lgan doiraning yuzi (π orqali) nechaga teng?",
+      "options": ["3π", "6π", "9π", "12π"],
+      "answer": 2,
+      "explain": "S = πr² = π · 3² = 9π."
+    }
+  ],
+  "sat": [
+    {
+      "q": "If 3x - 7 = 11, what is the value of x?",
+      "options": ["4", "5", "6", "7"],
+      "answer": 2,
+      "explain": "3x = 18, so x = 6."
+    },
+    {
+      "q": "If f(x) = 2x² - 3, what is f(3)?",
+      "options": ["9", "12", "15", "18"],
+      "answer": 2,
+      "explain": "f(3) = 2·9 - 3 = 15."
+    },
+    {
+      "q": "What is the slope of the line through the points (1, 2) and (3, 8)?",
+      "options": ["2", "3", "4", "6"],
+      "answer": 1,
+      "explain": "Slope = (8 - 2)/(3 - 1) = 6/2 = 3."
+    },
+    {
+      "q": "What is the sum of the solutions of x² - 5x + 6 = 0?",
+      "options": ["-5", "1", "5", "6"],
+      "answer": 2,
+      "explain": "x² - 5x + 6 = (x - 2)(x - 3), solutions 2 and 3, sum = 5."
+    },
+    {
+      "q": "If 4a = 2b and b = 10, what is the value of a?",
+      "options": ["2", "4", "5", "20"],
+      "answer": 2,
+      "explain": "4a = 20, so a = 5."
+    }
+  ]
+}

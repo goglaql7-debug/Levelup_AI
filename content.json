@@ -1,0 +1,16 @@
+{
+  "welcome": "Assalomu alaykum, {name}! 👋\n\nLevel up Math o'quv markaziga xush kelibsiz!\n\nBu yerda siz:\n🎁 Bepul dars videolarini ko'rishingiz\n📝 Milliy sertifikat va SAT Math bo'yicha mashq qilishingiz\n📚 Kurslarimiz haqida bilib, ariza qoldirishingiz mumkin.\n\nQuyidagi menyudan tanlang 👇",
+  "courses": {
+    "milliy": {
+      "title": "🎓 Milliy sertifikat Matematika",
+      "text": "Milliy sertifikat imtihoniga bosqichma-bosqich tayyorgarlik.\n\n• Online darslar\n• Mavzular bo'yicha amaliy mashqlar va testlar\n• O'qituvchi bilan savol-javob\n\nNarx, guruh jadvali va boshlanish sanasi haqida batafsil ma'lumot olish uchun ariza qoldiring — admin siz bilan bog'lanadi."
+    },
+    "sat": {
+      "title": "📐 SAT Math",
+      "text": "SAT Math bo'limiga puxta tayyorgarlik.\n\n• Online darslar\n• SAT formatidagi mashqlar va testlar\n• O'qituvchi bilan savol-javob\n\nNarx, guruh jadvali va boshlanish sanasi haqida batafsil ma'lumot olish uchun ariza qoldiring — admin siz bilan bog'lanadi."
+    }
+  },
+  "followup_1": "Salom, {name}! 👋\n\nSiz yaqinda Level up Math botiga kirgandingiz. Bepul dars videolarini ko'rib chiqdingizmi?\n\nHoziroq ko'rib chiqing yoki kursga ariza qoldiring — admin barcha savollaringizga javob beradi.",
+  "followup_2": "{name}, imtihonga tayyorgarlik vaqt talab qiladi ⏳\n\nBepul darsni ko'rib, kurs sizga mos-mosligini tekshirib ko'ring. Savollaringiz bo'lsa, ariza qoldiring — admin siz bilan bog'lanadi.",
+  "contact": "Level up Math\n\n📸 Instagram: @levelup_mathh\n\nSavollaringiz bo'lsa, «✍️ Ariza qoldirish» tugmasini bosing — admin siz bilan bog'lanadi."
+}
